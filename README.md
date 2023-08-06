@@ -1,6 +1,9 @@
 # AI Chat with Streamlit-Chat 🤖  
 Ini adalah aplikasi chat AI yang dibangun menggunakan Streamlit-Chat. Aplikasi ini dikembangkan oleh Bachtiar.
 
+<img width="1440" alt="Jepretan Layar 2023-08-06 pukul 15 23 08" src="https://github.com/OmenYar/AI-with-StreamlitChat/assets/109267502/89385c87-d3e8-4136-a9b5-20dfa35eb06c">
+
+
 ## Fitur
 
 - Memuat model bahasa GPT-3.5 Turbo dari OpenAI
